@@ -41,6 +41,13 @@ The ultimate resource for transitioning to freelancing for software developers �
 
 <!-- vim-markdown-toc -->
 
+---
+![some-company sponsor banner](./sponsorships/images/some-company.png)
+
+SOME-COMPANY Oy is a 💎 sponsor of this guide and kindly pays 100,000€ every month 😄
+
+---
+
 ## Introduction
 
 ### What problem will you face without this guide?
