@@ -38,16 +38,6 @@ The ultimate resource for transitioning to freelancing for software developers �
 
 <!-- tocstop -->
 
----
-
-[![TALENTED sponsorship banner][TALENTED sponsorship banner image]][TALENTED sponsorship banner link]
-
-[TALENTED sponsorship banner image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/freelancer_banner_talented.gif
-[TALENTED sponsorship banner link]: https://talented.fi/en/independent-contractor/?utm_source=github&utm_campaign=freelancing-in-fi-guide&utm_reference=banner
-
-**TALENTED** is the **EXCLUSIVE** sponsor of Freelancing-in-Finland guide and I'm grateful for their financial contribution 🧡
-
----
 
 ## Introduction
 
@@ -145,8 +135,6 @@ by 5-20%, which would be their cut of the hourly rate. This means that, with one
 * Check [the Hub](https://thehub.io/jobs?positionTypes=5b8e46b3853f039706b6ea75&countryCode=FI) for freelance job types.
 
 **List of organizations you can introduce yourself to**:
-* [Business Finland](https://www.businessfinland.fi/en/for-finnish-customers/contact/customer-service) is a governmental organization whose main purpose is to help Finnish companies.
-A lot of those companies are startups who need software developers. By introducing yourself and your services to a Business Finland advisor, they may be able to connect you with potential startups.
 * [NewCo Helsinki](https://newcohelsinki.fi/en/startup-services/) is a governmental organization which is focused on helping companies in Helsinki:
 
   > When problems come up, we are here to help you right away. Please contact us at startup@hel.fi and stop by!
@@ -852,7 +840,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Now that you've reached the end, I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
-  * **I wanted to make money**. I didn't know [how to make money](https://github.com/sam-hosseini/freelancing-in-finland/issues/26) from this guide when I launched it 😄
+  * **I wanted to make money**. I didn't know how to make money from this guide when I launched it 😄
 and it took ~1 year before I managed to sign the first sponsorship deal. Patience was key 🔑
 
   * In 2021, I'd be working full-time on my own products, the first of which would be to expand this guide into a website.
