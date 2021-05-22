@@ -1,7 +1,5 @@
 # Freelancing in Finland
 
-<a href="#freelancing-in-finland"><img src="https://img.shields.io/badge/30%20min%20read-gray?style=flat-square&logo=medium" alt="medium reading estimation"></a>
-
 The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮
 
 <!-- toc -->
@@ -38,6 +36,18 @@ The ultimate resource for transitioning to freelancing for software developers �
 
 <!-- tocstop -->
 
+---
+
+[![Sharbel banner][Sharbel image]][Sharbel link]
+
+[Sharbel image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/sharbel.gif
+[Sharbel link]:  https://github.com/sharbeldahlan
+
+**Sharbel is one of my best friends** and he's looking to bootstrap his freelancing career.
+
+Until he reaches his goal, this banner stays here 😊
+
+---
 
 ## Introduction
 
@@ -67,7 +77,7 @@ You are the target audience of this guide if:
 * You want to work as an independent freelance software developer
 * You want to establish a limited liability company to offer your freelance services through it
 
-This guide is under [MIT license](https://github.com/sam-hosseini/freelancing-in-finland/blob/master/LICENSE) which means **use it at your own risk**,
+This guide is under [MIT license](https://github.com/sam-hosseini/freelancing-in-finland/blob/main/LICENSE.md) which means **use it at your own risk**,
 I'm not a lawyer and no statement here should be thought of as legal advice.
 
 ## Preparation - what to do **before** you establish your company
@@ -148,7 +158,7 @@ It took me ~6 months from the time I got into the networks to find my first proj
 
 **Steps**:
 * Once you find the right project, check the terms and conditions of the client's contract and run it by a lawyer if you have that available to you either through a union or elsewhere.
-    * If your client doesn't have a contract and asks you instead for one, you can take a look at a [simple contract template](https://github.com/sam-hosseini/freelancing-in-finland/blob/master/contract-templates/Resource-Hiring-Agreement.docx)
+    * If your client doesn't have a contract and asks you instead for one, you can take a look at a [simple contract template](https://github.com/sam-hosseini/freelancing-in-finland/blob/main/templates/resource_hiring_agreement.docx)
     for the target audience of this guide and **change its content based on your circumstances**.
 * If you're planning to [apply for startup grant](#apply-for-startup-grant), before you sign any contract, ask them to give you two weeks so that you can apply for startup grant and receive a decision.
 Even though the official estimation is 2 weeks, decision comes much faster in reality (2-4 working days). Once you receive the decision, you can proceed.
@@ -181,7 +191,7 @@ You can use [My Enterprise Finland](https://oma.yrityssuomi.fi/#) and complete t
 draw up your business plan which includes all necessary financial calculations as well.
 
 * Once you have your business plan ready, as an **optional** step, you can send an email with your business plan attached to the
-[Enterprise Agency in your city](https://www.uusyrityskeskus.fi/yritysneuvonta/uusyrityskeskukset/) and ask them for an appointment with a _Business Advisor_.
+[Enterprise Agency in your city](https://uusyrityskeskus.fi/apua-yrittajyyteen/alueelliset-keskukset/) and ask them for an appointment with a _Business Advisor_.
 In Helsinki, [_NewCo Helsinki_](https://newcohelsinki.fi/en/) is the Enterprise Agency to go to. Although it is not mandatory to go to this appointment for getting startup grant,
 the _Business Advisor_ has seen hundreds of business plans and can guide you to correct your mistakes in the business plan and therefore increase your chances for a successful application.
 
@@ -448,11 +458,11 @@ Minimum YEL                |  Maximum YEL
 :-------------------------:|:-------------------------:
 [![minimum YEL][minimum YEL image]][minimum YEL link]  |  [![maximum YEL][maximum YEL image]][maximum YEL link]
 
-[minimum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/minimum_YEL.png
-[minimum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/minimum_YEL.png
+[minimum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/minimum_YEL.png
+[minimum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/minimum_YEL.png
 
-[maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
-[maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/maximum_YEL.png
+[maximum YEL image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
+[maximum YEL link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/maximum_YEL.png
 
 \* Taken from [Varma.fi YEL calculator](https://www.varma.fi/en/entrepreneur/entrepreneurs-calculator/)
 
@@ -583,8 +593,8 @@ a job-seeker to be a full-time `employee` again, among other things.
 
 [![unemployment fund paths][unemployment fund paths image]][unemployment fund paths link]
 
-[unemployment fund paths image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
-[unemployment fund paths link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/unemployment_fund.png
+[unemployment fund paths image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/unemployment_fund.png
+[unemployment fund paths link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/unemployment_fund.png
 
 \* Taken from an old brochure of Unemployment Fund for the self-employed
 
@@ -667,7 +677,7 @@ you see that the market price is ~500€ nowadays, that's a *fair market value*.
 
 ### Offer yourself benefits that you like
 
-**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2020/)
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/detailed-guidance/decisions/47380/in-kind-benefits-fringe-benefits-2021/)
 
 **What is it?** You can offer yourself all the benefits `employees` have access to as a `self-employed` person. Up to the tax-free limits, it'll be only a business cost.
 
@@ -719,7 +729,7 @@ if you go ahead and use it all within that calendar year, you must report it and
 * You must add 24% VAT to the total amount you're charging them for your freelance services.
 * You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT only when you're **invoicing a company** residing within EU. To do it:
     * You must state the EU company's VAT ID in your invoice.
-    * You must ensure that your EU company's VAT is valid by [checking it in VIES](http://ec.europa.eu/taxation_customs/vies/?locale=en)
+    * You must ensure that your EU company's VAT is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
     * You must mention the VAT rate and exactly how much VAT is to be accounted for by the EU company for VAT purposes and the fact that this responsibility is left for the EU company.
     * You must mention the exact **`reverse-charge mechanism`** words in your invoice.
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
@@ -736,10 +746,10 @@ However, an overview of fundamentals can be illustrated.
 
 [![limited liability company taxation fundamentals][limited liability company taxation fundamentals image]][limited liability company taxation fundamentals link]
 
-[limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/limited_liability_taxation.png
-[limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/limited_liability_taxation.png
+[limited liability company taxation fundamentals image]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
+[limited liability company taxation fundamentals link]: https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/limited_liability_taxation.png
 
-\* Taken from page 86 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
+\* Taken from page 73 of [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2021](https://uusyrityskeskus.fi/wp-content/uploads/2021/02/Perustamisopas_2021_EN.pdf)
 
 ### Ensure that your obligations are fulfilled continuously
 
@@ -787,7 +797,7 @@ Calculators:
 
 Guides:
 * [Suomi.fi](https://www.suomi.fi/company/)
-* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2020](https://www.uusyrityskeskus.fi/wp-content/uploads/2020/04/SUK_GUIDE_2020_eng_verkkoon_linkit-1.pdf)
+* [Finnish Enterprise Agencies guide to becoming an Entrepreneur in Finland - 2021](https://uusyrityskeskus.fi/wp-content/uploads/2021/02/Perustamisopas_2021_EN.pdf)
 * [Capital taxation of individuals in Finland - 2015](https://www.porssisaatio.fi/wp-content/uploads/2015/08/vero_opas_2015_eng_final_web.pdf)
 
 Governmental organizations to provide support for you:
@@ -808,21 +818,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://keybase.io/onnimonni"><img src="https://avatars1.githubusercontent.com/u/5691777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Onni Hakala</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=onnimonni" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/vandelay"><img src="https://avatars1.githubusercontent.com/u/47499?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dom Padden</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vandelay" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.ardcoras.fi/"><img src="https://avatars2.githubusercontent.com/u/202163?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jyri-Petteri Paloposki</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=ZeiP" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://tuomas.io"><img src="https://avatars3.githubusercontent.com/u/24655?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tuomas Jomppanen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=tuomasj" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://tuomas.io"><img src="https://avatars3.githubusercontent.com/u/24655?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tuomas Jomppanen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=tuomasj" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/hankidesign/"><img src="https://avatars3.githubusercontent.com/u/1816448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Timo Salomäki</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=HankiDesign" title="Documentation">📖</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://twitter.com/VilleImmonen"><img src="https://avatars3.githubusercontent.com/u/497214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ville Immonen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=fson" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://twitter.com/olegpodsechin"><img src="https://avatars3.githubusercontent.com/u/141192?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oleg Podsechin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=olegp" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://linkedin.com/in/aleksefo"><img src="https://avatars0.githubusercontent.com/u/18084119?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Fomushkin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Aleksefo" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.eaccounting.fi/en/"><img src="https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/eAccounting_Finland_Oy.png?s=100" width="100px;" alt=""/><br /><sub><b>Jonne Anttila - eAccounting Finland Oy</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://aituri.ai"><img src="https://avatars3.githubusercontent.com/u/66198364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aituri</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=aituri" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/olegpodsechin"><img src="https://avatars3.githubusercontent.com/u/141192?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oleg Podsechin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=olegp" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://linkedin.com/in/aleksefo"><img src="https://avatars0.githubusercontent.com/u/18084119?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Fomushkin</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Aleksefo" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.eaccounting.fi/en/"><img src="https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/eAccounting_Finland_Oy.png?s=100" width="100px;" alt=""/><br /><sub><b>Jonne Anttila - eAccounting Finland Oy</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://aituri.ai"><img src="https://avatars3.githubusercontent.com/u/66198364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aituri</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=aituri" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/pkalliok"><img src="https://avatars3.githubusercontent.com/u/2952067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Panu Kalliokoski</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=pkalliok" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Trosterud"><img src="https://avatars2.githubusercontent.com/u/20249331?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sindre</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=Trosterud" title="Documentation">📖</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/YannickMeeus"><img src="https://avatars0.githubusercontent.com/u/588607?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yannick Meeus</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3AYannickMeeus" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="http://varmais.fi"><img src="https://avatars0.githubusercontent.com/u/2426164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Teemu Tiilikainen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=varmais" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://varmais.fi"><img src="https://avatars0.githubusercontent.com/u/2426164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Teemu Tiilikainen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=varmais" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/vladwalross"><img src="https://avatars.githubusercontent.com/u/11561727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vladimir Urbano</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vladwalross" title="Documentation">📖</a> <a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3Avladwalross" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/wyozi"><img src="https://avatars.githubusercontent.com/u/4894573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joonas</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=wyozi" title="Documentation">📖</a></td>
   </tr>
@@ -833,19 +843,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 ## Final words
 
 Now that you've reached the end, I can tell you that I wrote this guide **with both selfish and selfless reasons**.
 
 * Selfish reasons:
-  * **I wanted to make money**. I didn't know how to make money from this guide when I launched it 😄
-and it took ~1 year before I managed to sign the first sponsorship deal. Patience was key 🔑
+  * **I wanted to make money**, and I managed to do it with a sponsorship deal that lasted for 3 months 😊
+I'm happy that I've reached this goal and I won't be looking for sponsorship deals anymore.
 
-  * In 2021, I'd be working full-time on my own products, the first of which would be to expand this guide into a website.
-If you're interested to hear about that and follow my journey,
-you can [follow me on twitter](https://twitter.com/sam_hosseini_) 🐦
+  * **I wanted to get more twitter followers**, and +100 people did [follow me](https://twitter.com/sam_hosseini_) because of this guide 😊
+That's more than I could have asked for. Many thanks to each and every one of you 🙌🏼
 
 * Selfless reasons:
   * Software developers and the community are extremely generous and having been mostly *taking*, I wanted to give back as well.

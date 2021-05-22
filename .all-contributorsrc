@@ -1,14 +1,6 @@
 {
   "projectName": "freelancing-in-finland",
   "projectOwner": "sam-hosseini",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "commitConvention": "none",
   "contributors": [
     {
       "login": "andersnylund",
@@ -59,7 +51,7 @@
       "login": "tuomasj",
       "name": "Tuomas Jomppanen",
       "avatar_url": "https://avatars3.githubusercontent.com/u/24655?v=4",
-      "profile": "http://tuomas.io",
+      "profile": "https://tuomas.io",
       "contributions": [
         "doc"
       ]
@@ -86,7 +78,7 @@
       "login": "olegp",
       "name": "Oleg Podsechin",
       "avatar_url": "https://avatars3.githubusercontent.com/u/141192?v=4",
-      "profile": "http://twitter.com/olegpodsechin",
+      "profile": "https://twitter.com/olegpodsechin",
       "contributions": [
         "doc"
       ]
@@ -95,7 +87,7 @@
       "login": "Aleksefo",
       "name": "Alex Fomushkin",
       "avatar_url": "https://avatars0.githubusercontent.com/u/18084119?v=4",
-      "profile": "http://linkedin.com/in/aleksefo",
+      "profile": "https://linkedin.com/in/aleksefo",
       "contributions": [
         "doc"
       ]
@@ -103,7 +95,7 @@
     {
       "login": "",
       "name": "Jonne Anttila - eAccounting Finland Oy",
-      "avatar_url": "https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/master/images/eAccounting_Finland_Oy.png",
+      "avatar_url": "https://raw.githubusercontent.com/sam-hosseini/freelancing-in-finland/main/images/eAccounting_Finland_Oy.png",
       "profile": "https://www.eaccounting.fi/en/",
       "contributions": [
         "doc"
@@ -113,7 +105,7 @@
       "login": "aituri",
       "name": "aituri",
       "avatar_url": "https://avatars3.githubusercontent.com/u/66198364?v=4",
-      "profile": "http://aituri.ai",
+      "profile": "https://aituri.ai",
       "contributions": [
         "doc"
       ]
@@ -149,7 +141,7 @@
       "login": "varmais",
       "name": "Teemu Tiilikainen",
       "avatar_url": "https://avatars0.githubusercontent.com/u/2426164?v=4",
-      "profile": "http://varmais.fi",
+      "profile": "https://varmais.fi",
       "contributions": [
         "doc"
       ]
@@ -173,7 +165,5 @@
         "doc"
       ]
     }
-  ],
-  "contributorsPerLine": 7,
-  "skipCi": true
+  ]
 }
