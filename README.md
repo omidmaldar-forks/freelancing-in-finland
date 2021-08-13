@@ -24,6 +24,7 @@ The ultimate resource for transitioning to freelancing for software developers �
   * [Consider joining a union](#consider-joining-a-union)
   * [Consider joining an unemployment fund](#consider-joining-an-unemployment-fund)
   * [Consider buying health insurance](#consider-buying-health-insurance)
+  * [Consider getting dental care plan](#consider-getting-dental-care-plan)
   * [Consider selling your personal work-related tools to your company](#consider-selling-your-personal-work-related-tools-to-your-company)
 * [Operation - what to do to **run** your company](#operation---what-to-do-to-run-your-company)
   * [Offer yourself benefits that you like](#offer-yourself-benefits-that-you-like)
@@ -640,6 +641,24 @@ Comparison of health insurance providers:
 * Contact the insurance provider you chose and get a quote for your specific health insurance package.
 * Be ready to answer basic questions about your business like your estimated annual revenue, your `YEL income`, main line of business and many more.
 
+### Consider getting dental care plan
+
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+
+**What is it?** An employer can offer an dental care plan to their employees. The dental checks and/or proceduers have to be non-estethical, related to the employees health, and reasonable to be tax-deductible. More details in [section 3.2.5.3 Hammashoito](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/62486/henkil%C3%B6kuntaedut-verotuksessa4/). You can decide the upper yearly limit of what the employees can use for dental care per year. Each employee has to have the same sum on the contract, but by being `self-employed`, you can set the limit to what you want. Usual yearly dental care contracts range from 150€ to 3000€ per year. You will also have to decide if you pay your check/procedures yourself personally and return them to yourself from your company, or if the company pays for them directly.
+
+Some available dental care providers:
+
+* [Mehiläinen](https://www.mehilainen.fi/en/companies/occupational-dental-care)
+* [Oral](https://www.oral.fi/en/information/information-for-fustomers/occupational-dental-care/)
+
+**Steps**:
+
+* Contact the dental care provider and ask for an offer/contract for your company.
+* Sign the contract and provide details of the person (you) to be included in the plan.
+* Book your checkups and/or procedures with your dental care provider's dentist.
+* Either pay yourself or with your company and include the payments into your accounting.
+
 ### Consider selling your personal work-related tools to your company
 
 **Source of truth**: [Tax Administration](https://www.vero.fi/en/)
@@ -715,6 +734,8 @@ if you go ahead and use it all within that calendar year, you must report it and
 
 ### Send your invoices carefully
 
+**Source of truth**: [Tax Administration](https://www.vero.fi/en/)
+
 **In general**:
 
 * When invoicing individuals, at the very minimum you should include their full name and address in the invoice.
@@ -729,9 +750,9 @@ if you go ahead and use it all within that calendar year, you must report it and
 * You must add 24% VAT to the total amount you're charging them for your freelance services.
 * You can, however, use [**reverse-charge mechanism**](https://quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/) and not add VAT only when you're **invoicing a company** residing within EU. To do it:
     * You must state the EU company's VAT ID in your invoice.
-    * You must ensure that your EU company's VAT is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
-    * You must mention the VAT rate and exactly how much VAT is to be accounted for by the EU company for VAT purposes and the fact that this responsibility is left for the EU company.
-    * You must mention the exact **`reverse-charge mechanism`** words in your invoice.
+    * You must ensure that your EU company's VAT ID is valid by [checking it in VIES](https://ec.europa.eu/taxation_customs/vies/?locale=en)
+    * You must mention the exact **`Reverse Charge`** words in your invoice.
+    * You must state that VAT is to be accounted for by the EU company. However, you must **not** mention the VAT rate **nor** the VAT amount to be accounted for by the EU company. This is explained in details in sections 6.1.9 and 6.1.10 of [VAT invoice requirements](https://www.vero.fi/en/detailed-guidance/guidance/48090/vat-invoice-requirements2).
     * *`reverse-charge mechanism`* works in the other way around too. In some checkout pages, the seller asks for your VAT ID to remove the VAT amount from your purchase invoice.
  Without this mechanism, the seller could not do that.
 
@@ -835,6 +856,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://varmais.fi"><img src="https://avatars0.githubusercontent.com/u/2426164?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Teemu Tiilikainen</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=varmais" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/vladwalross"><img src="https://avatars.githubusercontent.com/u/11561727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vladimir Urbano</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=vladwalross" title="Documentation">📖</a> <a href="https://github.com/sam-hosseini/freelancing-in-finland/issues?q=author%3Avladwalross" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/wyozi"><img src="https://avatars.githubusercontent.com/u/4894573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joonas</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=wyozi" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jasaarim"><img src="https://avatars.githubusercontent.com/u/3259169?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jasaarim</b></sub></a><br /><a href="https://github.com/sam-hosseini/freelancing-in-finland/commits?author=jasaarim" title="Documentation">📖</a></td>
   </tr>
 </table>
 
